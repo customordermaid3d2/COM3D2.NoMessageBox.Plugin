@@ -1,17 +1,7 @@
-# Æ÷ÇÔµÈ ³»¿ë
+![477a3a0dec713f0441734814b407e770bbd0e8ae010700e0a75b9c89f4acf198](https://user-images.githubusercontent.com/20321215/121517565-7e387b00-ca2a-11eb-8b59-b15c155aba62.png)
 
-- ±â¾î ¸Ş´º Ãß°¡  
-- ¼³Á¤ÆÄÀÏ¿¡ °ª ÀúÀå  
-- ´ÜÃàÅ° ¼³Á¤  
-- GUI ±âº» ÀÛ¼º. À©µµ¿ì ¸®»çÀÌÁî½Ã ¹ÛÀ¸·Î ³ª°¡¹ö¸®´Â°Å ¹æÁö Æ÷ÇÔ  
-- ÄÚ·çÆ¾  
-- ÇÏ¸ğ´Ï  
-- OnSceneLoaded ±âº» »ç¿ë¹ı.  scene.buildIndex´Â ¾²Áö ¸»ÀÚ Á¦¹ß.  
+BepInEx  
+not open MessageBox  
+and logging to console (red log)
 
-¹Ù·Î ÄÄÆÄÀÏ ÇÒ¼ö ÀÖ°Ô BepInPluginSample/lib/ Æú´õ ¾È¿¡ dll µé¾î ÀÖÀ½.  
-°ÔÀÓ ¹öÀü¿¡ ¸Â°Ô ±âÁ¸ °ÔÀÓ Æú´õ¿¡¼­ °¡Á®´Ù ¾µ°Í.  
-
-
-# »ùÇÃ ÀÌ¹ÌÁö
-
-![2021-06-06 19 16 10](https://user-images.githubusercontent.com/20321215/120920873-f7b72d00-c6fb-11eb-80a7-8e9e73d3a013.png)
+ë©”ì„¸ì§€ë°•ìŠ¤ ì•ˆëœ¨ê³  ë¶‰ì€ìƒ‰ ì½˜ì†”ë¡œê·¸ë¡œë§Œ ì°ê²Œ ë§Œë“¤ì–´ì¤Œ  
